@@ -64,6 +64,20 @@ rd2 = Math.floor(Math.random()*30);
   
   <body style="background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491491962000&di=a101e2033883077242ea21ad64dc3444&imgtype=0&src=http%3A%2F%2Fh7.86.cc%2Fwalls%2F20160729%2F1920x1200_88f5b02af13e733.jpg)" >
     <div class="container">
+    <div class="col-md-12 column" >
+			<ul class="nav nav-tabs">
+				<li style="font-size:20px;">
+					 <a href="index.jsp">首页</a>
+				</li>
+				<li style="font-size:20px;">
+					 <a href="login.jsp">登陆</a>
+				</li>
+				<li style="font-size:20px;">
+					 <a href="#">商店</a>
+				</li>
+				
+			</ul>
+		</div>
     <div class="col-md-6 colum">
     <div class="jumbotron">
 
